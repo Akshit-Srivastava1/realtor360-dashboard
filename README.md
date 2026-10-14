@@ -35,7 +35,7 @@ Install [Node.js](https://nodejs.org/) and npm before running the project.
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Akshit-Srivastava1/realtor360-dashboard.git
 ```
 
 Navigate to the project directory:
